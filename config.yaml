@@ -1,0 +1,36 @@
+baseURL: 'https://lzeuch.de'
+defaultContentLanguage: en
+theme: gokarna
+
+enableRobotsTXT: true
+title: "Luca Zeuch"
+
+menu:
+  main:
+    - identifer: about
+      url: /about/
+      name: About
+      weight: 1
+    - identifer: posts
+      url: /posts/
+      name: Posts
+      weight: 2
+    - identifier: tags
+      url: /tags/
+      name: Tags
+      weight: 3
+    - identifier: github
+      url: 'https://github.com/l-zeuch/lzeuch.de'
+      weight: 4
+      pre: <span data-feather='github'></span>
+params:
+  showPostsOnHomePage: recent
+  avatarURL: /images/avatar.png
+  socialIcons:
+    - name: github
+      url: 'https://github.com/l-zeuch'
+    - name: mail
+      url: 'mailto:l-zeuch@email.de'
+    - name: discord
+      url: 'https://discord.gg/tFhxypKcvm'
+  description: "Chemistry student from Germany. Minimalist. Sometimes I write code, and sometimes it works, too!"
