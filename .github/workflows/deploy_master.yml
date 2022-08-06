@@ -18,8 +18,8 @@ jobs:
         passphrase: ${{ secrets.PASSPHRASE }}
         port: ${{ secrets.PORT }}
         script: |
-          cd website && git checkout dev
-          git pull && git submodule update --recursive
+          cd lzeuch.de && git checkout master
+          git pull
           hugo
           rsync -avz --delete public/ /var/www/html/public/
 
