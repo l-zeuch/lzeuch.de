@@ -25,7 +25,7 @@ stuff with anyone who visits my humble website!
 ### Current Projects
 
 * [`yagpdb-cc`](https://github.com/yagpdb-cc/yagpdb-cc/) - A collection of Custom Commands for YAGPDB, a multipurpose Discord bot.
-* [`website`](https://github.com/l-zeuch/website) - My own website and blog  (This right here!)
+* [`lzeuch.de`](https://github.com/l-zeuch/lzeuch.de) - My own website and blog  (This right here!)
 * [`yagpdb.vim`](https://github.com/l-zeuch/yagpdb.vim) - An (N)Vim plugin to support syntax highlighting of YAGPDB Custom Commands.
 
 Maybe, maybe not more to come in the future. Who knows?
