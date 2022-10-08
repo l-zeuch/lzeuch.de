@@ -1,10 +1,9 @@
+---
 baseURL: 'https://lzeuch.de'
 defaultContentLanguage: en
 theme: gokarna
-
 enableRobotsTXT: true
 title: "Luca Zeuch"
-
 menu:
   main:
     - identifer: about
@@ -33,4 +32,6 @@ params:
       url: 'mailto:l-zeuch@email.de'
     - name: discord
       url: 'https://discord.gg/tFhxypKcvm'
-  description: "Chemistry student from Germany. Minimalist. Sometimes I write code, and sometimes it works, too!"
+  description: >-
+    Chemistry student from Germany. Minimalist.
+    Sometimes I write code, and sometimes it works, too!
