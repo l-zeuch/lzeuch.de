@@ -2,13 +2,15 @@
 title: "Enlightenment -- Curse, or Blessing?"
 Date: 2022-10-08
 type: post
+description: "An essay about humankind, responsibility, and knowledge."
+tags: ["philosophy", "essay"]
 ---
 
 The newspaper you are reading, the pencil you use to fill in a Sudoku box, the battery,
 that makes your wristwatch tick at this very moment -- these are all the achievements of the Age of Enlightenment.
 
 The Enlightenment was not just some historical epoch that no longer touches us, but still leaves its
-its traces everywhere. Medical discoveries, electrical appliances and the social-democratic social system all stem from it.
+traces everywhere. Medical discoveries, electrical appliances and the social-democratic social system all stem from it.
 
 For Enlightenment is not a fixed period that simply ends after a certain time.
 Since the beginning of the Enlightenment in 1720, it has been an ongoing process.
