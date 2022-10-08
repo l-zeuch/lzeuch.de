@@ -38,7 +38,7 @@ who owns the world and rules over it. How can we live in such a developed world 
 and look for our role models in the time of 2000 years ago?
 
 Why do people today laugh at the naivety of the Germanic peoples with regard to their nature gods, when we are basically doing the same?
-do? Why does man's intellect, which is so well-developed, need the belief that he is not alone, not without a god?
+Why does man's intellect, which is so well-developed, need the belief that he is not alone, not without a god?
 And is it not precisely faith that keeps us from evolving?
 
 If one holds to the thesis that there is one or even several gods, why then should mankind move to
@@ -62,13 +62,13 @@ Max Frisch once said: "If you had the power to order what seems right to you tod
 against the opposition of the majority? Yes or no." And, would you? Is it enlightened to impose an opinion on people?
 If you think about the intentions of the Enlightenment, it is not.
 
-And right after that he asked the counter question: why not, if it seems right to you? Yes, why not? Because the
+And right after that he asked the counter question: why not, if it seems right to you? Yes, why not?
 Because then the individual has to decide: Does he live together with unenlightened people and remain alone with his conception of the
 enlightenment or does he force them to enlightenment in order to spread it and end up with a dictatorship that is opposed to enlightenment?
 
 In the end, enlightenment also remains only a relative concept that is shaped by people. Just like love,
 friendship and trust, it cannot be defined. And through coercion, the Enlightenment would have no future.
-have any future. For enlightenment is a matter of minds and views.
+For enlightenment is a matter of minds and views.
 
 If one does not stand behind them, they are meaningless. 
 One must find his enlightenment himself, because he must be able to live with it and also die with it.
