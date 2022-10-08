@@ -35,3 +35,5 @@ params:
   description: >-
     Chemistry student from Germany. Minimalist.
     Sometimes I write code, and sometimes it works, too!
+  footer:
+    Luca Zeuch
