@@ -39,9 +39,9 @@ In certain circumstances, you have the following data protection rights:
 ## Log Files
 
 `lzeuch.de` follows a standard procedure of using log files. These files log visitors when they visit websites.
-All hosting companies do this and a part of hosting services' analytics.
-The information collected by log files include internet protocol (IP) addresses, browser type,
-Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks.
+All hosting companies do this as a part of hosting services' analytics.
+The information collected by log files include internet protocol (IP) addresses, browser type, date and time stamp,
+and referring/exit pages.
 These are not linked to any information that is personally identifiable.
 The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website,
 and gathering demographic information.
@@ -56,7 +56,6 @@ They automatically receive your IP address when this occurs. These technologies 
 of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.
 
 Note that `lzeuch.de` has no access to or control over these cookies that are used by third-party advertisers.
-
 
 ## Third Party Privacy Policies
 
@@ -87,3 +86,6 @@ offline or via channels other than this website.
 
 By using our website, you hereby consent to our Privacy Policy and agree to its terms.
 
+## Contact
+
+You can contact us per email at `l-zeuch[at]email.de`.
