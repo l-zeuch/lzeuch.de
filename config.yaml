@@ -10,21 +10,17 @@ menu:
       url: /about/
       name: About
       weight: 1
-    - identifer: privacy
-      url: /gdpr/
-      name: Privacy
-      weight: 2
     - identifer: posts
       url: /posts/
       name: Posts
-      weight: 3
+      weight: 2
     - identifier: tags
       url: /tags/
       name: Tags
-      weight: 4
+      weight: 3
     - identifier: github
       url: 'https://github.com/l-zeuch/lzeuch.de'
-      weight: 5
+      weight: 4
       pre: <span data-feather='github'></span>
 params:
   showPostsOnHomePage: recent
