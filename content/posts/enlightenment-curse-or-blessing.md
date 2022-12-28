@@ -1,5 +1,5 @@
 ---
-title: "Enlightenment -- Curse, or Blessing?"
+title: "Enlightenment — Curse, or Blessing?"
 Date: 2022-10-08
 type: post
 description: "An essay about humankind, responsibility, and knowledge."
@@ -7,7 +7,7 @@ tags: ["philosophy", "essay"]
 ---
 
 The newspaper you are reading, the pencil you use to fill in a Sudoku box, the battery,
-that makes your wristwatch tick at this very moment -- these are all the achievements of the Age of Enlightenment.
+that makes your wristwatch tick at this very moment &mdash; these are all the achievements of the Age of Enlightenment.
 
 The Enlightenment was not just some historical epoch that no longer touches us, but still leaves its
 traces everywhere. Medical discoveries, electrical appliances and the social-democratic social system all stem from it.
@@ -25,7 +25,7 @@ Although many inventions were intended to protect humanity and preserve life, mi
 But it is wrong to condemn the entire Enlightenment and the independent thinking of mankind for this, 
 since in the end man alone is responsible for his deeds?
 
-Responsibility is the key word -- every progress, every achievement brings with it new responsibility and it is up to us to live up to it.
+Responsibility is the key word &mdash; every progress, every achievement brings with it new responsibility and it is up to us to live up to it.
 The more society structures itself and the more inventions there are, the more the more the responsibility of mankind grows.
 
 But what if we cannot bear it? Is our technology then already more enlightened than our mind?
@@ -33,9 +33,8 @@ And why do some people not want to bear this responsibility? Or can they not?
 
 For example, the contradiction between enlightenment and the church, or religion in general, remains open.
 Despite all modernity, religion forces people back to an outdated way of living and thinking.
-They fly around the world in a jumbo jet or into space with NASA and still claim that there is someone who owns the world.
-who owns the world and rules over it. How can we live in such a developed world of the 21st century
-and look for our role models in the time of 2000 years ago?
+They fly around the world in a jumbo jet or into space with NASA and still claim that there is someone who owns the world and rules over it.
+How can we live in such a developed world of the 21st century and look for our role models in the time of 2000 years ago?
 
 Why do people today laugh at the naivety of the Germanic peoples with regard to their nature gods, when we are basically doing the same?
 Why does man's intellect, which is so well-developed, need the belief that he is not alone, not without a god?
