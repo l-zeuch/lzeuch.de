@@ -33,6 +33,17 @@ Maybe, maybe not more to come in the future. Who knows?
 At the moment, I *try* to learn Go programming, however I'm also somewhat proficient with Java, as that was part of my
 school education, as well as some HTML/CSS.
 
+## Acknowledgements
+
+Thanks to the [Hugo](https://gohugo.io/) team for providing an amazingly fast and simple framework as well as the 
+[Gokarna](https://github.com/526avijitgupta/gokarna) authors and contributors for creating a straight-forward, no-nonsense theme.
+
+Hugo is licensed under the [Apache License 2.0](https://github.com/gohugoio/hugo/blob/master/LICENSE).
+
+Gokarna is licensed under [GNU General Public License v3.0](https://github.com/526avijitgupta/gokarna/blob/main/LICENSE).
+
+This blog's content is licensed under [CC-BY-NC-SA 4.0](). Any code for this blog is licensed under [GPL-3.0]()
+
 ## Contact
 
 Best shot is to write me an email to `l-zeuch[at]email.de`. I try to answer in a timely manner. Thanks for writing in!
