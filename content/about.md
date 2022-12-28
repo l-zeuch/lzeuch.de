@@ -42,7 +42,8 @@ Hugo is licensed under the [Apache License 2.0](https://github.com/gohugoio/hugo
 
 Gokarna is licensed under [GNU General Public License v3.0](https://github.com/526avijitgupta/gokarna/blob/main/LICENSE).
 
-This blog's content is licensed under [CC-BY-NC-SA 4.0](). Any code for this blog is licensed under [GPL-3.0]()
+This blog's content is licensed under [CC-BY-NC-SA 4.0](https://github.com/l-zeuch/lzeuch.de/blob/master/LICENSE-CC-BY-NC-SA.md).
+Any code for this blog is licensed under [GPL-3.0](https://github.com/l-zeuch/lzeuch.de/blob/master/LICENSE-GPL3.md).
 
 ## Contact
 
