@@ -47,4 +47,4 @@ Any code for this blog is licensed under [GPL-3.0](https://github.com/l-zeuch/lz
 
 ## Contact
 
-Best shot is to write me an email to `l-zeuch[at]email.de`. I try to answer in a timely manner. Thanks for writing in!
+Best shot is to write me an email to l-zeuch@email.de. I try to answer in a timely manner. Thanks for writing in!
