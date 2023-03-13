@@ -10,7 +10,6 @@
 
     {{ $title := .Title | default .Site.Title }}
     {{ $description := .Description | default .Site.Params.Description }}
-    {{ $description = truncate 50 "" $description }}
     {{ $image := .Params.image | default .Site.Params.OgImage }}
     {{ $siteKeywords := .Site.Params.MetaKeywords | default (slice) }}
     {{ $postKeywords := .Params.tags | default (slice) }}
