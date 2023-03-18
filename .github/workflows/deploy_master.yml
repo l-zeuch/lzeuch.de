@@ -21,4 +21,4 @@ jobs:
           cd lzeuch.de && git checkout master
           git pull
           hugo
-          rsync -avz --delete public/ {{ secrets.WEB_DIR }}
+          rsync -avz --delete public/ ${{ secrets.WEB_DIR }}
