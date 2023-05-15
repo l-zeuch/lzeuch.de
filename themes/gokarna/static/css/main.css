@@ -484,10 +484,6 @@ table td {
   display: inline-block;
 }
 
-.post-title .post-date-wrap {
-  vertical-align: right;
-}
-
 .post-title .post-link {
   width: 80%;
 }
