@@ -431,6 +431,11 @@ table td {
 .post .post-date {
   color: gray;
 }
+
+.post .reading-time {
+  color: gray;
+}
+
 .post .post-content {
   line-height: 1.7;
   margin-top: 50px;
@@ -474,9 +479,15 @@ table td {
   text-decoration: none;
 }
 .post-title .post-link,
-.post-title .post-date {
+.post-title .post-date,
+.post-title .reading-time {
   display: inline-block;
 }
+
+.post-title .post-date-wrap {
+  vertical-align: right;
+}
+
 .post-title .post-link {
   width: 80%;
 }
